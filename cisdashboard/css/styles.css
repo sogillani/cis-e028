@@ -1,0 +1,26 @@
+
+.header {
+    background-color: #222;
+    /* height: 150px; */
+    padding: 20px;
+    color: white;
+}
+
+.title {
+    font-size: 1.5em;
+  }
+
+.footer {
+    background-color: gray; 
+    color: white; 
+    padding: 10px
+}
+
+.leftpanel {
+    height: 800px   
+}
+
+.rightpanel {
+    height: 800px;
+    width: 100%;
+}
